@@ -134,3 +134,8 @@ h3{
     }
     
 }
+footer {
+  background-color: lightcyan;
+  padding: 10px;
+  text-align: center;
+}
